@@ -1,8 +1,8 @@
 # me
 <h1 align="center">Hi 👋, I'm Ali Afraz</h1>
 <h3 align="center">A noob prgrammer seeking for bugs.</h3>
-- 🔭 I’m currently working for [Liara team](liara.ir)
-- 🌱 I’m currently learning **anything!**
+- 🔭 I’m currently working for [Liara team](https://liara.ir)
+- 🌱 These days I’m learning **anything!**
 
 - 📫 How to reach me **a.afraz.1380@gmail.com**
 - I am always online on Telegram **https://t.me/eyeamnoob**
